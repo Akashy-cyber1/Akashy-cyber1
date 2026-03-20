@@ -1,26 +1,72 @@
-# 💫 About Me:
-Building full-stack web applications using modern technologies like React, Nextjs, Django,<br>and Postgres, MongoDB — focused on writing clean, scalable, and production-ready code.<br>Open-source projects related to web development, developer tools, or beginner-friendly<br>repositories where I can contribute meaningfully and grow alongside the community.<br>Advanced system design patterns, backend architecture best practices, and finding<br>open-source projects where I can make my first impactful contributions.<br>Full-stack development — diving deep into REST APIs, database optimization,<br>authentication systems, and deployment workflows with Docker & cloud platforms.<br>Frontend development with React, building REST APIs with Django & Node.js,<br>or anything about getting started in full-stack web development as a student.<br>I debug faster with lo-fi music playing in the background — and I genuinely<br>enjoy reading error logs. Yes, really. 😄
+<h1 align="center">Hi 👋, I'm Akash Yadav</h1>
+<h3 align="center">Full-Stack Developer crafting scalable web apps with clean architecture and modern tools</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=22D3EE&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;React+%7C+Next.js+%7C+Django+%7C+Node.js;REST+APIs+%7C+Authentication+%7C+Databases;Clean+Code+%7C+Scalable+Architecture+%7C+Deployment;Open-Source+Learner+%7C+Builder+%7C+Problem+Solver" alt="Typing SVG" />
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Akashy_King1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/akash-yadav-662017244) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akashy1935@gmail.com) 
+<p align="center">
+  <a href="https://github.com/Akashy-cyber1">
+    <img src="https://komarev.com/ghpvc/?username=Akashy-cyber1&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+  </a>
+  <a href="https://github.com/Akashy-cyber1?tab=followers">
+    <img src="https://img.shields.io/github/followers/Akashy-cyber1?label=Followers&style=for-the-badge" alt="followers" />
+  </a>
+  <a href="https://github.com/Akashy-cyber1">
+    <img src="https://img.shields.io/github/stars/Akashy-cyber1?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge" alt="stars" />
+  </a>
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=plastic&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=plastic&logo=react%20query&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=plastic&logo=yarn&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF7139)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Akashy-cyber1&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Akashy-cyber1&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Akashy-cyber1&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Akashy-cyber1&theme=shadow_blue&no-frame=true&no-bg=true&margin-w=4)
+## 🚀 About Me
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+I’m a passionate **Full-Stack Developer** who loves building modern, scalable, and production-ready web applications.
 
-### 🔝 Top Contributed Repo
-![]([https://github-contributor-stats.vercel.app/api?username=Akashy-cyber1&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
-](https://github.com/Akashy-cyber1/skycodetools.git)
-[![](https://visitcount.itsvg.in/api?id=Akashy-cyber1&icon=4&color=12)](https://visitcount.itsvg.in)
+- ⚡ Building with **React, Next.js, Django, Node.js, PostgreSQL, and MongoDB**
+- 🛠️ Interested in **backend architecture, system design, APIs, and deployment**
+- 🌱 Currently learning **advanced system design, Docker, cloud workflows, and scalable backend patterns**
+- 🤝 Looking for **open-source contributions**, real-world collaboration, and impactful projects
+- 🎯 Focused on writing **clean, maintainable, and developer-friendly code**
+- 🎧 Fun fact: I debug faster with **lo-fi music** and I actually enjoy reading error logs 😄
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://instagram.com/Akashy_King1" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/akash-yadav-662017244" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:akashy1935@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Akashy-cyber1" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 💼 What I Work On
+
+- 🌐 Full-stack web applications
+- 🔐 Authentication and authorization systems
+- ⚙️ REST API development
+- 🗄️ Database design and optimization
+- 🚀 Deployment workflows with modern platforms
+- 🧩 Beginner-friendly and scalable project structures
+
+---
+
+## 🧠 Current Focus
+
+```txt
+Building scalable apps
+Improving backend architecture
+Learning Docker & cloud deployment
+Contributing to open source
+Strengthening DSA + system design
