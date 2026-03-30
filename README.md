@@ -1,13 +1,8 @@
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1a56a0,100:38bdf8&height=200&section=header&text=Akash%20Yadav&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Python%20%C2%B7%20Django%20%C2%B7%20React%20%C2%B7%20Next.js&descAlignY=58&descSize=18&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0f172a,40:1a3a6b,70:1d6fa4,100:38bdf8&height=220&section=header&text=Akash%20Yadav&fontSize=70&fontColor=ffffff&fontAlignY=45&desc=Full%20Stack%20Developer%20%7C%20Python%20%C2%B7%20Django%20%C2%B7%20React%20%C2%B7%20Next.js&descAlignY=68&descSize=17&animation=blinking&stroke=38bdf8&strokeWidth=2" />
 
 </div>
-
-<div align="center">
-
-
 
 <div align="center">
 
@@ -178,6 +173,46 @@ print(me.greet())
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=stripe&logoColor=white)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+---
+
+## 📊 Skills & Proficiency
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║                    💻  SKILL PROFICIENCY CHART                       ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                      ║
+║   🐍  Python          ████████████████████░░░░  90%  ⭐ Expert       ║
+║   ⚙️  Django / DRF    ███████████████████░░░░░  85%  ⭐ Expert       ║
+║   ⚡  FastAPI         ████████████████░░░░░░░░  78%  🔥 Advanced     ║
+║   ⚛️  React.js        ███████████████████░░░░░  85%  ⭐ Expert       ║
+║   🔺  Next.js         ████████████████░░░░░░░░  75%  🔥 Advanced     ║
+║   🎨  Tailwind CSS    ████████████████████░░░░  88%  ⭐ Expert       ║
+║   🐘  PostgreSQL      ████████████████░░░░░░░░  78%  🔥 Advanced     ║
+║   🐋  Docker          ██████████████░░░░░░░░░░  70%  🔥 Advanced     ║
+║   🔴  Redis           █████████████░░░░░░░░░░░  65%  ✅ Intermediate ║
+║   🤖  AI / ML Tools   ████████████░░░░░░░░░░░░  60%  ✅ Intermediate ║
+║                                                                      ║
+║   ░ = In Progress    ▓ = Learning    █ = Proficient                  ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🛠️ Skill Icons
+
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,react,nextjs,tailwind,typescript,nodejs,postgresql,mongodb,redis,docker,git,github,vscode,postman,vercel,linux&perline=9" />
 
 </div>
 
