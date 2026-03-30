@@ -6,7 +6,7 @@
 
 <div align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=50&lines=🚀+Full+Stack+Developer+%7C+Python+%26+React;🌐+skycodetools.in+—+10%2C000%2B+Users+Worldwide;🔥+Django+%7C+FastAPI+%7C+PostgreSQL+%7C+Docker;🤖+AI+Certified+%7C+CETPA+Infotech+%7C+CMMI+Lvl+5;💡+Building+Production-Ready+Scalable+Apps)](https://git.io/typing-svg)
-
+</div>
 <br/>
 
 <a href="https://www.linkedin.com/in/akashyprofile1" target="_blank">
