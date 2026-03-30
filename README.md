@@ -5,25 +5,33 @@
 </div>
 
 <div align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=50&lines=🚀+Full+Stack+Developer+%7C+Python+%26+React;🌐+skycodetools.in+—+10%2C000%2B+Users+Worldwide;🔥+Django+%7C+FastAPI+%7C+PostgreSQL+%7C+Docker;🤖+AI+Certified+%7C+CETPA+Infotech+%7C+CMMI+Lvl+5;💡+Building+Production-Ready+Scalable+Apps)](https://git.io/typing-svg)
-</div>
-<br/>
 
 <a href="https://www.linkedin.com/in/akashyprofile1" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
-</a>&nbsp;
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 <a href="https://github.com/Akashy-cyber1" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>&nbsp;
+</a>
 <a href="https://skycodetools.in" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_SkyCode_Tools-LIVE_SaaS-22c55e?style=for-the-badge&logoColor=white" />
-</a>&nbsp;
+  <img src="https://img.shields.io/badge/🚀%20SkyCode%20Tools-Live%20SaaS-22c55e?style=for-the-badge" />
+</a>
 <a href="https://portfolio-rho-jet-61.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-FF4500?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>&nbsp;
+  <img src="https://img.shields.io/badge/Portfolio-1a56a0?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 <a href="mailto:akashy1935@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=🚀+Full+Stack+Developer+%7C+Python+%26+React;🌐+Built+skycodetools.in+—+10%2C000%2B+Users+Worldwide;🔥+Django+%7C+REST+API+%7C+PostgreSQL+%7C+Docker;🤖+AI+Certified+%7C+CETPA+Infotech;💡+Building+Scalable%2C+Production-Ready+Apps" />
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Akashy-cyber1&color=38bdf8&style=for-the-badge&label=PROFILE+VIEWS)
+![GitHub Followers](https://img.shields.io/github/followers/Akashy-cyber1?style=for-the-badge&color=38bdf8&labelColor=0f172a)
+
+</div>
 
 <br/><br/>
 
