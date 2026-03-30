@@ -35,8 +35,6 @@
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Akashy-cyber1&color=38bdf8&style=for-the-badge&label=PROFILE+VIEWS)
-![GitHub Followers](https://img.shields.io/github/followers/Akashy-cyber1?style=for-the-badge&color=22c55e&labelColor=0f172a&label=FOLLOWERS)
 
 </div>
 
