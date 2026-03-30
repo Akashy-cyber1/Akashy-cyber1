@@ -1,3 +1,12 @@
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1a56a0,100:38bdf8&height=200&section=header&text=Akash%20Yadav&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Python%20%C2%B7%20Django%20%C2%B7%20React%20%C2%B7%20Next.js&descAlignY=58&descSize=18&animation=fadeIn" />
+
+</div>
+
+<div align="center">
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0f172a,40:1a3a6b,70:1d6fa4,100:38bdf8&height=220&section=header&text=Akash%20Yadav&fontSize=70&fontColor=ffffff&fontAlignY=45&desc=Full%20Stack%20Developer%20%7C%20Python%20%C2%B7%20Django%20%C2%B7%20React%20%C2%B7%20Next.js&descAlignY=68&descSize=17&animation=blinking&stroke=38bdf8&strokeWidth=2" />
