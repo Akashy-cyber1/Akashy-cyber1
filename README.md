@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<br/>
+<br/><br/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=🚀+Full+Stack+Developer+%7C+Python+%26+React;🌐+Built+skycodetools.in+—+10%2C000%2B+Users+Worldwide;🔥+Django+%7C+REST+API+%7C+PostgreSQL+%7C+Docker;🤖+AI+Certified+%7C+CETPA+Infotech;💡+Building+Scalable%2C+Production-Ready+Apps" />
 
@@ -35,9 +35,6 @@
 
 <br/><br/>
 
-
-</div>
-
 ---
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -47,6 +44,7 @@
 <table>
 <tr>
 <td valign="top" width="60%">
+
 ```python
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
@@ -99,6 +97,7 @@ print(me.greet())
 </table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ---
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> &nbsp;Featured Projects
@@ -312,4 +311,3 @@ print(me.greet())
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:1a56a0,100:0f172a&height=120&section=footer&animation=fadeIn" />
 
 </div>
- 
