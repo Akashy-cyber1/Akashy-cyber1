@@ -53,7 +53,7 @@ class AkashYadav:
 
     name     = "Akash Yadav"
     role     = "Full Stack Developer"
-    location = "Lucknow, India 🇮🇳"
+    location = "Farrukhabad, Uttar Pradesh, India 🇮🇳"
     email    = "akashy1935@gmail.com"
 
     stack = {
