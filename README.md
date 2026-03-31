@@ -203,18 +203,18 @@ print(me.greet())
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Akashy-cyber1&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&border_radius=12" height="175" />
+<img src="https://github-readme-stats.vercel.app/api?username=Akashy-cyber1&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&border_radius=12&cache_seconds=1800" height="175" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akashy-cyber1&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&border_radius=12" height="175" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akashy-cyber1&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&border_radius=12&cache_seconds=1800" height="175" />
 
 <br/><br/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=Akashy-cyber1&theme=tokyonight&hide_border=true&fire=38bdf8&ring=1a56a0&currStreakLabel=38bdf8&border_radius=12" width="55%" />
+<img src="https://streak-stats.demolab.com/?user=Akashy-cyber1&theme=tokyonight&hide_border=true&fire=38bdf8&ring=1a56a0&currStreakLabel=38bdf8&border_radius=12" width="55%" />
 
 <br/><br/>
 
 ### 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=Akashy-cyber1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="95%" />
+<img src="https://github-profile-trophy.vercel.app/?username=Akashy-cyber1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6&cache_seconds=86400" width="95%" />
 
 </div>
 
