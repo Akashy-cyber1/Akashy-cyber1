@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<br/><br/>
+<br/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=🚀+Full+Stack+Developer+%7C+Python+%26+React;🌐+Built+skycodetools.in+—+10%2C000%2B+Users+Worldwide;🔥+Django+%7C+REST+API+%7C+PostgreSQL+%7C+Docker;🤖+AI+Certified+%7C+CETPA+Infotech;💡+Building+Scalable%2C+Production-Ready+Apps" />
 
@@ -42,46 +42,63 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> &nbsp;About Me
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> &nbsp;About Me
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" style="border-radius: 12px;" />
-
+<table>
+<tr>
+<td valign="top" width="60%">
 ```python
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
 class AkashYadav:
-    
+
     name     = "Akash Yadav"
     role     = "Full Stack Developer"
     location = "Lucknow, India 🇮🇳"
     email    = "akashy1935@gmail.com"
-    
+
     stack = {
         "frontend" : ["React.js", "Next.js", "Tailwind CSS"],
         "backend"  : ["Python", "Django", "DRF", "FastAPI"],
         "database" : ["PostgreSQL", "MongoDB", "Redis"],
         "devops"   : ["Docker", "Vercel", "Render", "Git"],
-        "ai_ml"    : ["SBERT", "spaCy", "pgvector", "Scikit-learn"],
+        "ai_ml"    : ["SBERT", "spaCy", "pgvector"],
     }
 
     achievement = "🌐 skycodetools.in → 10,000+ Users"
-    certified   = "🤖 AI Certification — CETPA Infotech"
+    certified   = "🤖 AI Cert — CETPA Infotech"
     status      = "🔍 Open to Full Stack / Backend Roles"
     passion     = "💡 Turning ideas into scalable products"
     fun_fact    = "🎧 I debug faster with lo-fi music"
-    
+
     def greet(self):
-        return "Let's build something amazing together! 🚀"
+        return "Let's build something amazing! 🚀"
 
 me = AkashYadav()
 print(me.greet())
 ```
 
-<br clear="right"/>
+</td>
+<td valign="top" width="40%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="max-width:260px; border-radius:12px;" />
+
+<br/><br/>
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=Akashy-cyber1&label=Profile%20Visits&countColor=%2338bdf8&style=for-the-badge)](https://github.com/Akashy-cyber1)
+
+<br/>
+
+![Status](https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=flat-square&logo=checkmarx&logoColor=white)
+![Location](https://img.shields.io/badge/📍_Lucknow-India-38bdf8?style=flat-square)
+![Role](https://img.shields.io/badge/Role-Full%20Stack%20Dev-1a56a0?style=flat-square&logo=dev.to&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ---
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> &nbsp;Featured Projects
