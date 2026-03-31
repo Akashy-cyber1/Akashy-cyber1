@@ -89,7 +89,7 @@ print(me.greet())
 <br/>
 
 ![Status](https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=flat-square&logo=checkmarx&logoColor=white)
-![Location](https://img.shields.io/badge/📍_Lucknow-India-38bdf8?style=flat-square)
+![Location](https://img.shields.io/badge/📍_Farrukhabad,_Uttar_Pradesh-India-38bdf8?style=flat-square)
 ![Role](https://img.shields.io/badge/Role-Full%20Stack%20Dev-1a56a0?style=flat-square&logo=dev.to&logoColor=white)
 
 </td>
