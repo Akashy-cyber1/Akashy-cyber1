@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<br/><br/>
+<br/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=🚀+Full+Stack+Developer+%7C+Python+%26+React;🌐+Built+skycodetools.in+—+10%2C000%2B+Users+Worldwide;🔥+Django+%7C+REST+API+%7C+PostgreSQL+%7C+Docker;🤖+AI+Certified+%7C+CETPA+Infotech;💡+Building+Scalable%2C+Production-Ready+Apps" />
 
