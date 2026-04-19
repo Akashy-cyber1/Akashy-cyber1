@@ -252,7 +252,7 @@ print(me.greet())
 
 | 🏅 Certificate | 🏢 Issuer | 📅 Status |
 |:---:|:---:|:---:|
-| 🤖 **AI Certification** (6 Months) | CETPA Infotech — CMMI Level 5 · Google & Microsoft Partner | ✅ Apr 2025 |
+| 🤖 **AI Certification** (6 Months) | CETPA Infotech — CMMI Level 5 · Google & Microsoft Partner | ✅ Apr 2026 |
 | ☁️ Google Cloud Skills Boost | Google | 🔄 In Progress |
 | 🔷 Microsoft Azure AZ-900 | Microsoft Learn | 🔄 In Progress |
 | 🟠 AWS Cloud Practitioner | AWS Skill Builder | 🔄 In Progress |
