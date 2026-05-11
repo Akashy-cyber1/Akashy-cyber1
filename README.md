@@ -58,7 +58,7 @@ class AkashYadav:
 
     stack = {
         "frontend" : ["React.js", "Next.js", "Tailwind CSS"],
-        "backend"  : ["Python", "Django", "DRF", "FastAPI"],
+        "backend"  : ["Python", "Django", "DRF","RestAPI", "FastAPI"],
         "database" : ["PostgreSQL", "MongoDB", "Redis"],
         "devops"   : ["Docker", "Vercel", "Render", "Git"],
         "ai_ml"    : ["SBERT", "spaCy", "pgvector"],
