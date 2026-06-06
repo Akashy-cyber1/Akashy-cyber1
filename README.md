@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1a56a0,100:38bdf8&height=200&section=header&text=Akash%20Yadav&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Python%20%C2%B7%20Django%20%C2%B7%20React%20%C2%B7%20Next.js&descAlignY=58&descSize=18&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1a56a0,100:38bdf8&height=200&section=header&text=Akash%20Yadav&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Python%20%C2%B7%20Django%20%C2%B7%20Node.js%20%C2%B7%20React%20%C2%B7%20Next.js&descAlignY=58&descSize=18&animation=fadeIn" />
 
 </div>
 
@@ -24,7 +24,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=🚀+Full+Stack+Developer+%7C+Python+%26+React;🌐+Built+skycodetools.in+—+10%2C000%2B+Users+Worldwide;🔥+Django+%7C+REST+API+%7C+PostgreSQL+%7C+Docker;🤖+AI+Certified+%7C+CETPA+Infotech;💡+Building+Scalable%2C+Production-Ready+Apps" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=🚀+Full+Stack+Developer+%7C+Python+%26+React;🟢+Node.js+%7C+Express.js+%7C+REST+API+%7C+MongoDB;🌐+Built+skycodetools.in+—+10%2C000%2B+Users+Worldwide;🔥+Django+%7C+PostgreSQL+%7C+Docker+%7C+Redis;🤖+AI+Certified+%7C+CETPA+Infotech" />
 
 <br/>
 
@@ -45,36 +45,32 @@
 <tr>
 <td valign="top" width="60%">
 
-```python
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
+```javascript
+// Full Stack Developer — Node.js + Python
 
-class AkashYadav:
+const akash = {
+  name:     "Akash Yadav",
+  role:     "Full Stack Developer",
+  location: "Farrukhabad, Uttar Pradesh, India 🇮🇳",
+  email:    "akashy1935@gmail.com",
 
-    name     = "Akash Yadav"
-    role     = "Full Stack Developer"
-    location = "Farrukhabad, Uttar Pradesh, India 🇮🇳"
-    email    = "akashy1935@gmail.com"
+  stack: {
+    frontend : ["React.js", "Next.js", "Tailwind CSS"],
+    backend  : ["Node.js", "Express.js", "Python", "Django", "FastAPI"],
+    database : ["PostgreSQL", "MongoDB", "Redis"],
+    devops   : ["Docker", "Vercel", "Render", "Git"],
+    ai_ml    : ["SBERT", "spaCy", "pgvector", "LLMs"],
+  },
 
-    stack = {
-        "frontend" : ["React.js", "Next.js", "Tailwind CSS"],
-        "backend"  : ["Python", "Django", "DRF","RestAPI", "FastAPI"],
-        "database" : ["PostgreSQL", "MongoDB", "Redis"],
-        "devops"   : ["Docker", "Vercel", "Render", "Git"],
-        "ai_ml"    : ["SBERT", "spaCy", "pgvector"],
-    }
+  achievement : "🌐 skycodetools.in → 10,000+ Users",
+  mernProject : "🛒 Trendify E-Commerce → MERN + Stripe",
+  certified   : "🤖 AI Cert — CETPA Infotech",
+  status      : "🔍 Open to Full Stack / Node.js Roles",
+  passion     : "💡 Turning ideas into scalable products",
+  fun_fact    : "🎧 I debug faster with lo-fi music",
+};
 
-    achievement = "🌐 skycodetools.in → 10,000+ Users"
-    certified   = "🤖 AI Cert — CETPA Infotech"
-    status      = "🔍 Open to Full Stack / Backend Roles"
-    passion     = "💡 Turning ideas into scalable products"
-    fun_fact    = "🎧 I debug faster with lo-fi music"
-
-    def greet(self):
-        return "Let's build something amazing! 🚀"
-
-me = AkashYadav()
-print(me.greet())
+console.log("Let's build something amazing! 🚀");
 ```
 
 </td>
@@ -104,6 +100,27 @@ print(me.greet())
 
 <div align="center">
 
+### 🛒 Trendify E-Commerce — Full Stack MERN App
+
+[![Live](https://img.shields.io/badge/🛒_Live_Demo-Trendify-f97316?style=for-the-badge)](https://trendify-e-commerce-wy58.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/Akashy-cyber1/trendify-E-commerce)
+
+</div>
+
+> 🏆 Full-featured e-commerce platform built with **MERN Stack** — featuring **Stripe payments**, JWT authentication, admin dashboard, cart, and order management.
+
+<div align="center">
+
+| 🟢 Node.js + Express | ⚛️ React Frontend | 🗄️ MongoDB | 💳 Stripe Payments | 🔐 JWT Auth |
+|:---:|:---:|:---:|:---:|:---:|
+| RESTful API backend | Product listing · Cart · Orders | NoSQL data store | Full checkout flow | Role-based (User/Admin) |
+
+</div>
+
+<br/>
+
+<div align="center">
+
 ### 🌐 SkyCode Tools — Production SaaS Platform
 
 [![Live](https://img.shields.io/badge/🌐_Live_Website-skycodetools.in-22c55e?style=for-the-badge)](https://skycodetools.in)
@@ -111,7 +128,7 @@ print(me.greet())
 
 </div>
 
-> 🏆 Built & independently deployed a **production-grade SaaS platform** from scratch — serving **10,000+ users worldwide** with zero downtime.
+> Built & independently deployed a **production-grade SaaS platform** from scratch — serving **10,000+ users worldwide** with zero downtime.
 
 <div align="center">
 
@@ -125,20 +142,20 @@ print(me.greet())
 
 <div align="center">
 
-### 🛒 Trendify E-Commerce — Full Stack MERN App
+### 🤖 AI Resume Screener — Semantic Job Match System
 
-[![Live](https://img.shields.io/badge/🛒_Live_Demo-Trendify-f97316?style=for-the-badge)](https://trendify-e-commerce-wy58.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/Akashy-cyber1/trendify-E-commerce)
+[![Live](https://img.shields.io/badge/🤖_Live_Demo-AI_Screener-8b5cf6?style=for-the-badge)](https://ai-resume-matcher-rho.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/Akashy-cyber1/)
 
 </div>
 
-> Full-featured e-commerce platform with **Stripe payments**, admin dashboard, JWT auth — built with MERN stack.
+> AI-powered resume-to-job semantic matching using **SBERT embeddings + pgvector** similarity search with sub-second API responses via Redis caching.
 
 <div align="center">
 
-| 🛠️ Tech Stack | ⚙️ Features | 🔐 Auth |
+| 🛠️ Tech Stack | 🤖 AI Core | ⚡ Performance |
 |:---:|:---:|:---:|
-| React · Node · Express · MongoDB · Stripe | Cart · Checkout · Admin Dashboard | JWT + Role-based (User/Admin) |
+| FastAPI · React · Tailwind | SBERT · spaCy · pgvector | Redis caching · Real-time scoring |
 
 </div>
 
@@ -154,8 +171,8 @@ print(me.greet())
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -166,16 +183,17 @@ print(me.greet())
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
 ### 🗄️ Databases & Cache
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### 🤖 AI / ML
@@ -188,6 +206,7 @@ print(me.greet())
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -266,14 +285,17 @@ print(me.greet())
 ## 💡 What I'm Currently Building
 
 ```
-🔨  FreelanceHub    — Multi-tenant freelance marketplace backend
-                      Django · DRF · PostgreSQL · Celery · Redis · Docker
+🟢  Trendify         — MERN Stack E-Commerce (Node.js · Express · MongoDB · React · Stripe)
+                        JWT Auth · Admin Dashboard · Cart · Orders · Deployed on Vercel
 
-🤖  AI Resume       — Semantic job-match system
-    Screener          FastAPI · SBERT · pgvector · React · Tailwind
+🔨  FreelanceHub     — Multi-tenant freelance marketplace backend
+                        Django · DRF · PostgreSQL · Celery · Redis · Docker
 
-📚  Learning        — System Design · Database Optimization
-                      Cloud Architecture · DSA
+🤖  AI Resume        — Semantic job-match system
+    Screener           FastAPI · SBERT · pgvector · React · Tailwind
+
+📚  Learning         — System Design · Node.js Advanced (Streams, Clusters, WebSockets)
+                        DSA in C++ · Cloud Architecture
 ```
 
 ---
